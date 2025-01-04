@@ -2,7 +2,7 @@
 
 Este repositório contém o script desenvolvido para uma competição de dados no Kaggle com o objetivo de prever os valores dos prêmios de seguros com base nas variáveis preditoras fornecidas.
 
-🚀 ## Funcionalidades
+🚀 Funcionalidades
 	1.	Análise Estatística
 Foram aplicadas técnicas de análise exploratória e estatística para compreender a relação entre as variáveis preditoras e a variável-alvo.
 	2.	Pré-processamento de Dados
@@ -24,16 +24,16 @@ Onde:
 	•	Σ = Somatório (soma de todos os erros ao quadrado).
 	•	√ = Raiz quadrada.
 
-🛠️ ## Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 
 As bibliotecas e dependências estão listadas no arquivo requirements.txt contido neste repositório. Certifique-se de instalar todos os pacotes antes de executar o script.
 
-📂 ## Estrutura do Repositório
+📂 Estrutura do Repositório
 	•	script.py: Código principal contendo a análise, pré-processamento e modelagem.
 	•	requirements.txt: Lista de bibliotecas e suas versões necessárias para a execução do projeto.
 	•	LICENSE: Licença de uso do repositório.
 
-⚙️ ## Como Usar
+⚙️ Como Usar
 	1.	Clone este repositório:
 
 git clone https://github.com/sturaro-ds/ml_insurance_predictions.git
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 python script.py
 
-📊 ## Resultados
+📊 Resultados
 
 Os modelos foram avaliados com base na métrica RMSE, e os resultados obtidos para cada algoritmo estão documentados no código.
 
